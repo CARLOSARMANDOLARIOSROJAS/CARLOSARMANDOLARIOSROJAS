@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://prenalitcolima.com/](https://prenalitcolima.com/)
 
-- 🌱 I’m currently learning **JS, Git, React, CSS and more...**
+- 🌱 I’m currently learning **JS, Git, React, NextJS, CSS and more...**
 
 - 📫 How to reach me **mmf50xj0k3rx@hotmail.com**
 
