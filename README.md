@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos!</h1>
 <h3 align="center">Computer Systems Engineering Student who loves software development from México!</h3>
 
-- 🔭 I’m currently working on [https://app.fastman.io/](https://app.fastman.io/)
+- 🔭 I’m currently working on <a href="https://app.fastman.io/" target="_blank">Fastman</a>
 
 - 🌱 I’m currently learning **JS, Git, React, NextJS, CSS and more...**
 
