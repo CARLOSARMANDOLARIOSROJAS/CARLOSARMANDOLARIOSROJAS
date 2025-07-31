@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos!</h1>
-<h3 align="center">Computer Systems Engineering Student who loves software development from México!</h3>
+<h3 align="center">Computer Systems Engineering who loves software development from México!</h3>
 
 - 💻 I’ve worked with **JavaScript, Git, React, Next.js, TypeScript, .NET, SQL Server, Tailwind CSS, Bootstrap and more.**
 
